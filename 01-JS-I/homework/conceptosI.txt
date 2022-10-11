@@ -1,0 +1,34 @@
+* Variables: Es un espacio de almacenamiento de valores. 
+Se puede referenciar a una caja en la cual se aloja un contenido para
+poder referenciarlo a futuro. Existen tres tipos:
+- const: se decalara un valor, pero el mismo es constante y no se puede
+modificar una vez asignado. 
+- let: se declara una variable pero con alcance limitado, por ejemplo,
+cuando esta sujeto a una declaración. 
+- var: tal como lo dice la palabra es una variable que se declara pero
+que puede modificarse a futuro y a diferencia de la anterior el alcance 
+es global o local sin importar el ambito.    
+
+* Strings: es una cadena de caracteres. La misma forman palabras y 
+se escriben entre comillas.
+
+* Booleans: proviene desde códigos binarios, estos tienen dos valores posibles, 
+aquellos que son true (verdadero) o false (falso.).
+
+* Undefined: es cuando se no ha declarado o definido un valor al ejecutar una 
+variable.
+
+* Null: corresponde al significado de nulo o vacio. No existe nada en el interior, 
+no es ni 0 ni tampoco indefinido.
+
+* Operadores: corresponde a un simbolo que permite que se realice un calculo 
+y arroje un resultado.
+Existen diferentes tipos, tales como: 
+- Aritméticos: suma, resta, division, multiplicacion, etc.
+- Lógicos: AND (&&), OR(||), NOT(!).
+- Comparación: igual (==), mayor que (>), menor que (<), mayor o igual que (>=),
+menor o igual que (<=), diferente que (!==).
+
+* `==` vs. `===` = Estos son dos tipos de operadores de comparación que, si bien
+ambos significan igual que, en el caso de "===" la comparación es estricta 
+contemplando no solo los valores, sino que también el tipo de dato. 
